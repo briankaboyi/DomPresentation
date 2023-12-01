@@ -34,7 +34,8 @@ console.log(container,title,list)
 container.style.backgroundColor = 'red'
 container.style.width = '50vw'
 container.style.height = '50vh'
-container.style.margin = '0px auto'
+container.style.margin = '0px auto'    
+container.style.padding = '30px'    
 
 
 // You can also set multiple styling to an Element in an instance.
